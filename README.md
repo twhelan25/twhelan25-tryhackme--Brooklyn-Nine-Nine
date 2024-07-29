@@ -58,9 +58,25 @@ ssh holt@$ip
 ```
 # Gaining Privileges
 
-We're in! In holt's home directory we, now have user.txt.
+We're in! In holt's home directory, we now have user.txt.
 
 Now let's run sudo -l to see holt's permissions:
+
+![sudo -l](https://github.com/user-attachments/assets/dfdb4654-5d19-4999-b96a-2db0400f8384)
+
+Now, let's head over to gtfobins and search for sudo nano:
+
+![sudo nano](https://github.com/user-attachments/assets/a526c8c4-ad79-4c7e-bbcc-836bd648bf82)
+
+# Exploitation
+
+The exploit worked and we get root! From here we can just run the command to reveal root.txt
+
+```bash
+cat /root/root.txt
+```
+I hope you enjoyed this CTF. Be sure to try to figure out the other path that you can take to root this box.
+
 
 
 
