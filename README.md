@@ -1,3 +1,6 @@
+
+![intro](https://github.com/user-attachments/assets/c547148f-dd23-403a-a3a3-b44733cd5ec2)
+
 # twhelan25-tryhackme--Brooklyn-Nine-Nine
 This is a detailed walkthrough for the tryhackme CTF Brooklyn Nine Nine. As stated in the tryhackme introduction there are two paths you could take and I will take one. I will not provide any flags or passwords as this is intended to be used as a guide.
 
