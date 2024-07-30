@@ -51,7 +51,11 @@ stegcracker brooklyn99.jpg
 ```
 After a few moments I got the password! Now, let's run the previous steghide command and use this password to see what the image is hiding. 
 
-We now have CPT Holt's password! As the nmap scan revealed, port 22 ssh is open, so let's try to log into ssh as holt:
+We now have CPT Holt's password! 
+
+![holt](https://tse4.mm.bing.net/th/id/OIP.Hc0UvDehwNbkPVrgiTd7PwHaEK?rs=1&pid=ImgDetMain)
+
+As the nmap scan revealed, port 22 ssh is open, so let's try to log into ssh as holt:
 
 ```bash
 ssh holt@$ip
