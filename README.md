@@ -82,7 +82,7 @@ The exploit worked and we get root! From here we can just run the command to rev
 ```bash
 cat /root/root.txt
 ```
-I hope you enjoyed this hacking the nine nine. Be sure to try to figure out the other path that you can take to root this box.
+I hope you enjoyed hacking the nine nine. Be sure to try to figure out the other path that you can take to root this box.
 
 
 
